@@ -2,3 +2,7 @@
     background: var(--azul-degrade);
     text-align: center;
 }
+
+.tópicos__titulo {
+    color: var(--branco);
+}
