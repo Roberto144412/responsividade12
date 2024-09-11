@@ -10,7 +10,7 @@
     margin-bottom: 1em;
 }
 
-.típicos__lista {
+.tópicos__lista {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
