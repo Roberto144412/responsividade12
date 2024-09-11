@@ -22,5 +22,6 @@
     color: var(--branco);
     padding: 1em;
     background-color: var(--laranja);
-
+    text-decoration: none;
 }
+
