@@ -3,7 +3,12 @@
     text-align: center;
 }
 
-.tópicos__título {
+.tópicos__título    {
     color: var(--branco);
     font-weight: 300;
+
+}
+
+.típicos__lista {
+    display: flex;
 }
