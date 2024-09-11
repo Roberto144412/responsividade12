@@ -11,4 +11,5 @@
 
 .típicos__lista {
     display: flex;
+    flex-wrap: wrap;
 }
