@@ -11,3 +11,11 @@
     background-clip: text;
 }
 
+.contato__título {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.contato__texto {
+    font-weight: 300;
+}
